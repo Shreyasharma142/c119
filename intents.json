@@ -1,0 +1,17 @@
+{"intents": [
+    {"tag":"greeting", 
+     "patterns": ["hai","how are you","hello"],
+     "responses": ["hello thanks for asking","good to see you again"]
+    },
+    {"tag":"good by", 
+     "patterns": ["bye","see you later","nice to meet you"],
+     "responses": ["see you have a nice day","good to see you again"]
+    },
+    {"tag":"thanks", 
+     "patterns": ["thanks","that's helpful","thanks for helping me"],
+     "responses": ["heappy to help you","my plesure"]
+    }
+  ]
+}
+
+    
